@@ -1,3 +1,7 @@
+# Binary Knapsack Problem
+
+*binaryKnapsack* function in *binaryKnapsack.cpp* solves the **Binary Knapsack Problem** by dynamic programming approach. Also, a main function is provided in the file.
+
 # Calculating the Wasted Area with given partition options
 
 There are three functions that calculates the wasted area in a field by partitioning it with given partition options.
