@@ -4,7 +4,11 @@
 
 # Longest Common Sequence
 
-*longestCommonSequence* function in *longestCommonSequence.cpp* files solves the  **Longest Common Sequence** problem by using dynamic programming approach. Also, a main function is provided in the file.
+*longestCommonSequence* function in *longestCommonSequence.cpp* files solves the  **Longest Common Sequence** problem by using dynamic programming approach. It returns the length of longest common subsequence of given two strings. Also, a main function is provided in the file.
+
+# Matrix Chain Multiplication
+
+*matrixChainProduct* function in *matrixChainProduct.cpp* files solves the  **Matrix Chain Multiplication** problem by using dynamic programming approach. It returns minimum number of multiplications. Also, a main function is provided in the file.
 
 # Calculating the Wasted Area with given partition options
 
